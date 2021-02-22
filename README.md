@@ -44,9 +44,7 @@
 </a>
 <a href="">
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-</a>
-
-
+</a><br/><br/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=joao-oliveira-dev-php&show_icons=true" alt="joao-oliveira-dev-php"/> 
