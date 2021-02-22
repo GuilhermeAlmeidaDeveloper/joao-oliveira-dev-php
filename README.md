@@ -18,9 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [mjddev.com.br](https://mjddev.com.br/)
 
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **PHP, LARAVEL, REACT, MYSQL, HTML/CSS**
 
 - 📫 How to reach me **maykbrito@gmail.com**
 
