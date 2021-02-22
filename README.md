@@ -12,8 +12,7 @@
 </a>
 <a href="https://whats.link/joaodevphp">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
+</a><br/>
 
 - 🌱 I’m currently learning - **React.js** 
 
@@ -24,8 +23,7 @@
 - 📫 How to reach me **joaoo.rocha1@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
-- 
-
+<br/>
 <a href="">
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
