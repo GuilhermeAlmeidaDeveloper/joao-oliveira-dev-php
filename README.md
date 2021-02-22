@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🌱 I’m currently learning - React.js 
 
 - 👨‍💻 All of my projects are available at [mjddev.com.br](https://mjddev.com.br/)
 
