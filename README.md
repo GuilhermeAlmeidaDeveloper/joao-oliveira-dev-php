@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mjddev.com.br/)
 
 - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
 
