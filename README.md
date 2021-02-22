@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+
 - 🌱 I’m currently learning - **React.js** 
 
 - 👨‍💻 All of my projects are available at [mjddev.com.br](https://mjddev.com.br/)
@@ -23,6 +24,7 @@
 - 📫 How to reach me **joaoo.rocha1@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
+- 
 
 <a href="">
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
