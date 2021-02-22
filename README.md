@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Oliveira</h1>
 <h3 align="center">A full stack developer passionate about php</h3>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/joao-php/">
 - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
 
 - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
