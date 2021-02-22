@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/joao-php/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
 
 - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
