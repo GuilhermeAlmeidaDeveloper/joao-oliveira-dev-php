@@ -7,7 +7,7 @@
 <a href="https://mjddev.com.br/">
 	<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
 </a>
-<a href="joaoo.rocha1@gmail.com">
+<a href="mailto:joaoo.rocha1@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://whats.link/joaodevphp">
