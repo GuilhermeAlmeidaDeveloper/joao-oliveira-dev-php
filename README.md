@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning - **React.js** 
 
-- 👨‍💻 All of my projects are available at [mjddev.com.br](https://mjddev.com.br/)
+- 👨‍💻 All of my projects are available at [joaoweb.com.br](https://joaoweb.com.br/)
 
 - 💬 Ask me about **PHP, LARAVEL, REACT, MYSQL, HTML/CSS**
 
